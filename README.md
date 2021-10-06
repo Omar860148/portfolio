@@ -1,1 +1,1 @@
-# portfolio for my client.
+# portfolio for myself
